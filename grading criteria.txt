@@ -1,0 +1,21 @@
+Grading (MP7)
+
+Basic concepts (30) 
+  A clear idea on what to do (15)
+  Good understanding of the techniques (15)
+
+Report (40)
+  clarity (10)
+  algorithm description (15)
+  results analysis (15)
+
+Results (30)
+  
+  code (10) 
+  test case (20)
+    over 500 frames, how long can it tracks. 
+
+Option (up to 10% extra credit)
+  a clear description of the method (2)
+  code (5)
+  results (3)
